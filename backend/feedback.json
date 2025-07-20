@@ -1,0 +1,28 @@
+{
+  "feedbacks": [
+    {
+      "name": "Ishan Gautam",
+      "email": "isangautam@gmail.com",
+      "message": "hello",
+      "timestamp": "2025-07-20T13:08:08.079164"
+    },
+    {
+      "name": "Ishan Gautam",
+      "email": "isangautam2001@gmail.com",
+      "message": "new",
+      "timestamp": "2025-07-20T13:08:32.286704"
+    },
+    {
+      "name": "ankit pokhrel",
+      "email": "ankit@gmail.com",
+      "message": "Hello everyone",
+      "timestamp": "2025-07-20T16:14:50.867819"
+    },
+    {
+      "name": "rameshh",
+      "email": "ram@gmail.com",
+      "message": "heello i am ramesh",
+      "timestamp": "2025-07-20T16:17:51.198466"
+    }
+  ]
+}
